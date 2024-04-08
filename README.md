@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C49BD0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e47eff&height=120&section=header"/>
 
 
 <h1 align="center">Hello! I'm Artur</h1>
@@ -33,9 +33,11 @@
 <div> 
 
 <a href="https://www.linkedin.com/in/artur-fiorindo-0404b2288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:contato.alopesfiorindo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C49BD0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e47eff&height=120&section=footer"/>
